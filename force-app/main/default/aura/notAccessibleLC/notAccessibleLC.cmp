@@ -1,0 +1,38 @@
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <div class="slds-box">
+        <div class="slds-media slds-media_center">
+            <div class="slds-media__figure">
+                <lightning:icon iconName="action:new_contact" size="medium" alternativeText="Indicates approval"/>
+            </div>
+            <div class="slds-media__body">
+                <p>New Contact</p>
+            </div>
+        </div>
+        <br/>
+
+        <div class="slds-form-element">
+            <label class="slds-form-element__label" for="text-input-id-1">First Name</label>
+            <div class="slds-form-element__control">
+            <input type="text" id="text-input-id-1" class="slds-input" placeholder="" />
+            </div>
+        </div>
+
+        <div class="slds-form-element">
+            <label class="slds-form-element__label" for="text-input-id-1">Name</label>
+            <div class="slds-form-element__control">
+            <input type="text" id="text-input-id-1" class="slds-input" placeholder="" />
+            </div>
+        </div>
+
+        <div class="slds-form-element">
+            <label class="slds-form-element__label" for="text-input-id-1">Title</label>
+            <div class="slds-form-element__control">
+            <input type="text" id="text-input-id-1" class="slds-input" placeholder="" />
+            </div>
+        </div>
+
+        <div class="slds-button slds-button_brand slds-m-top_medium">Create Contact</div>
+        <!-- <div role="button" tabindex="0" class="slds-button slds-button_brand slds-m-top_medium">Create Contact</div> -->
+        <!-- <button class="slds-button slds-button_brand slds-m-top_medium">Create Contact</button> -->
+    </div>
+</aura:component>
