@@ -10,3 +10,5 @@
 * Accessible Lightning Component: https://<YOUR_DOMAIN_HERE>.lightning.force.com/c/accessible.app
 
 * Both Lightning Components: https://<YOUR_DOMAIN_HERE>.lightning.force.com/c/both.app
+
+3. You can get more information by watching the video or having a look to the slides of my related Dreamforce session [here](https://success.salesforce.com/Sessions?eventId=a1Q3A00000stRRuUAM#/session/a2q3A000001yuoRQAQ).
