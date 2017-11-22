@@ -5,7 +5,7 @@
 [![Deploy](https://deploy-to-sfdx.com/dist/assets/images/DeployToSFDX.svg)](https://deploy-to-sfdx.com)
 
 2. Access the application using one of these URLs:
-* Not accessible Lightning Component: https://<YOUR_DOMAIN_HERE>.lightning.force.com/c/notAccessible.app
+* Not accessible Lightning Component: https://<YOUR_DOMAIN_HERE>.lightning.force.com/c/notaccessible.app
 
 * Accessible Lightning Component: https://<YOUR_DOMAIN_HERE>.lightning.force.com/c/accessible.app
 
