@@ -1,5 +1,7 @@
 # Accessible Lightning Component Demo
 
+![accessible app](/assets/app.png)
+
 1. Deploy the sample application with Salesforce DX by clicking on this button:
 
 [![Deploy](https://deploy-to-sfdx.com/dist/assets/images/DeployToSFDX.svg)](https://deploy-to-sfdx.com)
